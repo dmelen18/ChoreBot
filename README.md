@@ -1,3 +1,3 @@
 # ChoreBot
-Simple interactive website where you play a game where you click on 2 of 3 doors hopefully avoiding the one that has the Chore Robot
+Simple interactive website where you play a game where you click on 2 of 3 doors hopefully avoiding the one that has the Chore Robot\
 Link to access: **https://dmelen18.github.io/ChoreBot/**
